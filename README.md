@@ -1,6 +1,6 @@
 # Experiment--01-Experiment-1-8086-Architecture-and-Register-Operations
-NAME-DEEKSHA NAGARAJAN
-REG NO.-RA2511030010332
+NAME-karan
+REG NO.-RA2511030010326
  
 ## Aim
 
